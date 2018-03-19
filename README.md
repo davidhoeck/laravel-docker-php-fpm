@@ -3,6 +3,7 @@
 These docker images are based on the docker images for Pimcore 
 developed by [@dpfaffenbauer](https://github.com/dpfaffenbauer)
 All credits go to him for developing such awesome images.
+Some of the tools that are only needed by Pimcore has been removed to keep the images small. 
 
 
 ## Supported tags and respective Dockerfile links
